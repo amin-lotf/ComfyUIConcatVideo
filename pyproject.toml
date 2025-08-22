@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "comfyui-concat-video"
+version = "0.1.0"
+description = "Concatenate two image batches in ComfyUI"
+authors = [{ name = "aminook" }]
+readme = "README.md"
+requires-python = ">=3.10"
+
+
+[project.urls]
+Homepage = "https://github.com/amin-lotf/comfyui-concat-video"

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+
+# Build / Dist
+build/
+dist/
+*.egg-info/
+
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# ComfyUI cache / logs (if generated in node dev)
+*.log
+cache/
